@@ -50,6 +50,9 @@
     align-items: center;
     column-gap: 1rem;
   }
+  .task-list li input[type="checkbox"] {
+		margin-bottom: 0;
+	}
   .checked {
     text-decoration: line-through;
   }
